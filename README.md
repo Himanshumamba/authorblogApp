@@ -1,1 +1,1 @@
-# authorblogApp
+full-stack blog website application using React, Node.js, and MySQL.  A blog website where users can read, create, edit, and delete blog posts. The front-end will be developed using React to provide a smooth and user-friendly interface, while the back-end will be powered by Node.js to handle requests and interact with the MySQL database.
